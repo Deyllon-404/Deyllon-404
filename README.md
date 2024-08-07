@@ -1,7 +1,7 @@
 - Daillon Mariano
 - Técnico em Redes de Computadores
-- interessado em Cyber security
-- se aprimorando em python
+- Interessado em Cyber security
+- Se aprimorando em python
 
 <!---
 Deyllon-404/Deyllon-404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
